@@ -1,0 +1,31 @@
+_repo: G.-H.-Q.--Montreuil-Sur-Mer--by--G.S.O.-_43644
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43644-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fox, Frank
+    aliases:
+    - Renar, Frank
+    - Fox, Frank, Sir
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '25216'
+    url: http://www.gutenberg.org/2009/agents/25216
+description: ''
+gutenberg_issued: '2013-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army -- History -- World War, 1914-1918'
+- !lcsh 'World War, 1914-1918 -- Great Britain'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front'
+title: G. H. Q. (Montreuil-Sur-Mer) by "G.S.O."
+url: http://www.gutenberg.org/ebooks/43644
